@@ -1,0 +1,7 @@
+/home/miranda/Documents/github/Lola/store/src/test/java/com/miranda/luna/store/BucketAndObjectIntegrationTest.java
+/home/miranda/Documents/github/Lola/store/src/test/java/com/miranda/luna/store/StoreStatusIntegrationTest.java
+/home/miranda/Documents/github/Lola/store/src/test/java/com/miranda/luna/store/application/service/BucketServiceTest.java
+/home/miranda/Documents/github/Lola/store/src/test/java/com/miranda/luna/store/application/service/ObjectServiceTest.java
+/home/miranda/Documents/github/Lola/store/src/test/java/com/miranda/luna/store/application/service/StoreStatusServiceTest.java
+/home/miranda/Documents/github/Lola/store/src/test/java/com/miranda/luna/store/domain/model/AuthenticatedOperatorTest.java
+/home/miranda/Documents/github/Lola/store/src/test/java/com/miranda/luna/store/infrastructure/security/TestLciAuthClient.java

@@ -1,0 +1,7 @@
+com/miranda/luna/store/application/service/ObjectServiceTest.class
+com/miranda/luna/store/application/service/BucketServiceTest.class
+com/miranda/luna/store/infrastructure/security/TestLciAuthClient.class
+com/miranda/luna/store/BucketAndObjectIntegrationTest.class
+com/miranda/luna/store/domain/model/AuthenticatedOperatorTest.class
+com/miranda/luna/store/StoreStatusIntegrationTest.class
+com/miranda/luna/store/application/service/StoreStatusServiceTest.class
